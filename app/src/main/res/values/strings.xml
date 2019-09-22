@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LatihanKelasA</string>
+    <string name="app_name">Latihan Activity</string>
     <string name="hitung">Hitung</string>
     <string name="tinggi">Tinggi</string>
     <string name="panjang">Panjang</string>
